@@ -1,3 +1,12 @@
+/*
+ * Copyright (c) 2020, 2021 The University of Rochester
+ *
+ * Author: Ruohuang Zheng <rzheng3@ur.rochester.edu>
+ *
+ * Intended to be licensed under GPL3
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
